@@ -33,6 +33,11 @@ Requirements for
 ### Under construction
 Details of the model architectures, development and performance will be added soon.
 
+### Author
+Nastaran Emaminejad
+Find me in LinkedIn: https://www.linkedin.com/in/nastaran-emaminejad-791726137/
+or Twitter: https://twitter.com/N_Emaminejad
+
 ### Citation
 If you found my work useful for your publications, please kindly cite this repository
 
