@@ -18,7 +18,7 @@ Requirements for
 `Scikit-Learn`
 
 ### Installation
-`git clone https://github.com/nemaminejad/DL_Tabular_Classification`
+`git clone  https://github.com/nemaminejad/Multi-Task_DeepLearningn`
 
 ### Data
 1. Collect your data, preprocess (Normalize, handle missing data,etc.)
